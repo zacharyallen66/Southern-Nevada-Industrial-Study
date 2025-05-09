@@ -55,7 +55,7 @@ My contribution included the end-to-end construction of all freight transportati
 
 ## 📎 References
 - **Final Report:** [CBER PDF (pages 111–120)](https://cber.unlv.edu/wp-content/uploads/2024/03/Southern-Nevada-Industrial-Study.pdf)
-- **All Supporting Code + Draft:** [GitHub Repo](https://github.com/zacharyallen66/southern-nevada-freight-study)
+- **All Supporting Code + Draft:** [GitHub Repo](https://github.com/zacharyallen66/Southern-Nevada-Industrial-Study)
 
 > 📌 *Note:* Only selected visualizations from my 30-page draft made it into the final report. The full version is provided here to showcase the complete methodology and analytical depth.
 
