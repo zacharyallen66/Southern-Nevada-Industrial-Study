@@ -8,9 +8,10 @@
 ---
 
 ## 📘 Project Overview
-This analysis supports the 2024 Southern Nevada Regional Industrial Study through original data analysis and visualizations focused on Clark County’s freight infrastructure and commodity flows. It uses Transearch data spanning 2015, 2019, 2021, and projections to 2050 to inform regional planning and economic policy decisions.
+This analysis supports the 2024 Southern Nevada Regional Industrial Study through original data analysis and visualizations focused on Clark County’s freight infrastructure and commodity flows. It leverages **Transearch freight movement data**, a proprietary dataset from **IHS Markit (now part of S&P Global)**, covering 2015, 2019, 2021, and projections to 2050.
 
 My contribution included the end-to-end construction of all freight transportation visualizations, covering modes, flows, trade relationships, and spatial summaries. These are featured across pages 111–120 of the final report, with additional unpublished material provided here for reference.
+
 
 ---
 
