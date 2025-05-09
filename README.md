@@ -32,21 +32,22 @@
 
 | [Regional Trade Map]![image](https://github.com/user-attachments/assets/682bceb2-dcdf-4f5d-9a50-727040b90f72)|
 |:--:|
-| *Clark County trade partner value by region (2021), using graduated symbology* |
+| *ArcGIS-Clark County trade partner value by region (2021), using graduated symbology* |
 
-| ![Commodity Types Circular](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id2) |
+| [Commodity Types Circular]![image](https://github.com/user-attachments/assets/fa3813f4-52e5-4a86-9bfc-e8cadfb20927)|
 |:--:|
 | *Circular bar chart showing top freight commodity categories* |
 
-| ![Mode Share All Directions](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id3) |
+| [Mode Share All Directions]![image](https://github.com/user-attachments/assets/48b69999-ed7d-4ca7-8b76-e08ecf5ffb4c)|
 |:--:|
 | *Mode share distribution by traffic direction (Inbound, Outbound, Intra, Through)* |
 
 | [Trendlines]![image](https://github.com/user-attachments/assets/65bb9373-a550-4054-85a1-4951c9c9abd4)|
+| [Trendlines]![image]![image](https://github.com/user-attachments/assets/87fbc2db-1b39-4886-8c29-4cd8a05ecf0b)|
 |:--:|
 | *Time-series share of freight direction types (2015–2050 projection)* |
 
-| ![ArcGIS Route Map](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id5) |
+| [ArcGIS Route Map]![image](https://github.com/user-attachments/assets/8da5a6f8-6158-497d-bdb2-33ff0cc903a6)|
 |:--:|
 | *ArcGIS-generated map of Southern Nevada’s key freight corridors* |
 
