@@ -75,9 +75,9 @@
 
 ## 📌 References
 
-- **Final Report:** [CBER PDF (pages 111–120)](https://cber.unlv.edu/wp-content/uploads/2024/03/Southern-Nevada-Industrial-Study.pdf)  
+- **Pages 111-120 of the Main Report:** [CBER PDF (pages 111–120)](https://github.com/zacharyallen66/Southern-Nevada-Industrial-Study/blob/main/Southern-Nevada-Industrial-Study.pdf) - Published part of my draft
 - **Full Draft + Source Code:** [GitHub Repo](https://github.com/zacharyallen66/Southern-Nevada-Industrial-Study)
-- **Full Draft + Source Code:** [Full Draft](https://github.com/zacharyallen66/Southern-Nevada-Industrial-Study/blob/main/SoNV_Industry_Study_Transearch_FullDraft_ZA.pdf)
+- **Full Draft:** [Full Draft](https://github.com/zacharyallen66/Southern-Nevada-Industrial-Study/blob/main/SoNV_Industry_Study_Transearch_FullDraft_ZA.pdf)
 > 📌 *Note:* Only selected visualizations from my 30-page draft made it into the final report. The full version is provided here to showcase the complete methodology and analytical depth.
 
 ---
