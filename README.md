@@ -7,12 +7,6 @@
 
 ---
 
-## 📘 Project Overview
-This analysis supports the 2024 Southern Nevada Regional Industrial Study through original data analysis and visualizations focused on Clark County’s freight infrastructure and commodity flows. It leverages **Transearch freight movement data**, a proprietary dataset from **IHS Markit (now part of S&P Global)**, covering 2015, 2019, 2021, and projections to 2050.
-
-My contribution included the end-to-end construction of all freight transportation visualizations, covering modes, flows, trade relationships, and spatial summaries. These are featured across pages 111–120 of the final report, with additional unpublished material provided here for reference.
-
-
 ---
 
 ## 📊 Key Features
@@ -29,8 +23,32 @@ My contribution included the end-to-end construction of all freight transportati
 - 📈 **Time Series & Trendlines**  
   Built projections and charts highlighting changes in outbound, inbound, intra-county, and through traffic by mode and commodity.
 
-- 🗺️ **Geospatial Economic Summaries**  
-  Aggregated freight data by FIPS regions for use in spatial summaries and visual heatmaps.
+- 🗌️ **Geospatial Economic Summaries**  
+  Aggregated freight data by FIPS regions for use in spatial summaries and visual heatmaps using ArcGIS Pro.
+
+---
+
+## 🖼️ Sample Visualizations
+
+| [Regional Trade Map]![image](https://github.com/user-attachments/assets/682bceb2-dcdf-4f5d-9a50-727040b90f72)|
+|:--:|
+| *Clark County trade partner value by region (2021), using graduated symbology* |
+
+| ![Commodity Types Circular](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id2) |
+|:--:|
+| *Circular bar chart showing top freight commodity categories* |
+
+| ![Mode Share All Directions](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id3) |
+|:--:|
+| *Mode share distribution by traffic direction (Inbound, Outbound, Intra, Through)* |
+
+| ![Trendlines](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id4) |
+|:--:|
+| *Time-series share of freight direction types (2015–2050 projection)* |
+
+| ![ArcGIS Route Map](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id5) |
+|:--:|
+| *ArcGIS-generated map of Southern Nevada’s key freight corridors* |
 
 ---
 
@@ -54,15 +72,16 @@ My contribution included the end-to-end construction of all freight transportati
 
 ---
 
-## 📎 References
-- **Final Report:** [CBER PDF (pages 111–120)](https://cber.unlv.edu/wp-content/uploads/2024/03/Southern-Nevada-Industrial-Study.pdf)
-- **All Supporting Code + My Full Draft:** [GitHub Repo](https://github.com/zacharyallen66/Southern-Nevada-Industrial-Study)
+## 📌 References
+
+- **Final Report:** [CBER PDF (pages 111–120)](https://cber.unlv.edu/wp-content/uploads/2024/03/Southern-Nevada-Industrial-Study.pdf)  
+- **Full Draft + Source Code:** [GitHub Repo](https://github.com/zacharyallen66/southern-nevada-freight-study)
 
 > 📌 *Note:* Only selected visualizations from my 30-page draft made it into the final report. The full version is provided here to showcase the complete methodology and analytical depth.
 
 ---
 
-## 📬 Contact
+## 📩 Contact  
 **Zachary Allen**  
 Graduate Assistant, Center for Business and Economic Research (CBER), UNLV  
 📧 allenwzac1@gmail.com  
