@@ -42,7 +42,7 @@
 |:--:|
 | *Mode share distribution by traffic direction (Inbound, Outbound, Intra, Through)* |
 
-| ![Trendlines](https://github.com/zacharyallen66/southern-nevada-freight-study/assets/your-image-id4) |
+| [Trendlines]![image](https://github.com/user-attachments/assets/65bb9373-a550-4054-85a1-4951c9c9abd4)|
 |:--:|
 | *Time-series share of freight direction types (2015–2050 projection)* |
 
